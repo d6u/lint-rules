@@ -175,11 +175,7 @@
     "space-unary-ops": 2,
     "wrap-regex": 0,
 
-    // ECMAScript 6
-    // generator-star-spacing|generator-star|no-var|object-shorthand
-
     // Legacy
-    // max-depth|max-params|max-statements|no-bitwise|no-plusplus
-    "max-len": [2, 80, 4] // Turn off perline
+    "max-len": [2, 80, 4] // Turn off for specific line if needed
   }
 }
